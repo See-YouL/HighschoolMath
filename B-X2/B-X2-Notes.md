@@ -98,3 +98,7 @@ $$
 $$
 P(A_1 \cap A_2 \cap ... \cap A_n) = P(A_1) \cdot P(A_2|A_1) \cdot P(A_3|A_1 \cap A_2) \cdot ... \cdot P(A_n|A_1 \cap A_2 \cap ... \cap A_{n-1})
 $$
+
+TODO P48 全概率公式 P50 全概率公式和直观解释
+
+TODO P51 贝叶斯公式 P53 贝叶斯公式推论
